@@ -1,0 +1,6 @@
+Day Temperature Humidity Wind PlayTennis 
+4 Mild High Weak Yes  
+5 Cool Normal Weak Yes  
+6 Cool Normal Strong No   
+10 Mild Normal Weak Yes  
+14 Mild High Strong No  
